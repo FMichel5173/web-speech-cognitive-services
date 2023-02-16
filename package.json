@@ -14,5 +14,9 @@
   },
   "devDependencies": {
     "lerna": "^5.5.2"
+  },
+  "dependencies": {
+    "babel-plugin-transform-inline-environment-variables": "^0.4.4",
+    "web-speech-cognitive-services": "^7.1.4-master.9e026d9"
   }
 }
